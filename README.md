@@ -1,0 +1,1 @@
+Earned a certificate from AWS Skill Builder for completing the course “Building and Deploying Containers Using Amazon Elastic Container Service (ECS)”, demonstrating skills in containerization, deployment, and AWS cloud services.
